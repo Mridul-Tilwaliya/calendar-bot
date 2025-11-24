@@ -2,6 +2,8 @@
 
 An intelligent chatbot that enables users to create, view, and update Google Calendar events through natural language conversations. Built with Next.js, Google Calendar API, and Google Gemini AI.
 
+**Repository**: [https://github.com/Mridul-Tilwaliya/calendar-bot](https://github.com/Mridul-Tilwaliya/calendar-bot)
+
 ## Features
 
 - 🤖 **Natural Language Processing**: Parse plain-English commands like "Schedule meeting with Priya tomorrow 3pm"
@@ -33,7 +35,7 @@ An intelligent chatbot that enables users to create, view, and update Google Cal
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Mridul-Tilwaliya/calendar-bot.git
 cd calendar-bot
 ```
 
